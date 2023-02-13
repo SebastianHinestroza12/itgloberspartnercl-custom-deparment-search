@@ -1,0 +1,17 @@
+.container__select{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.select{
+  cursor: pointer;
+  padding: 9.3px;
+  border: 1px solid gray;
+  margin-right: 3rem;
+  border-style: none;
+}
+
+.options {
+  padding: 10px;
+}
