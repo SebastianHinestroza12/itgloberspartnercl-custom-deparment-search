@@ -17,3 +17,18 @@
   padding: 1rem;
   margin-bottom: 4rem;
 }
+
+
+@media only screen and (max-width: 575px){
+.container__content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  width: 100% !important;
+  max-height: 130px !important;
+  padding: 2rem !important;
+  margin-bottom: 4rem;
+}
+}
